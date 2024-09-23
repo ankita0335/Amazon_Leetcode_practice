@@ -30,11 +30,13 @@
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0817-design-hashmap](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0817-design-hashmap) |
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0025-reverse-nodes-in-k-group) |
 ## Array
 |  |
