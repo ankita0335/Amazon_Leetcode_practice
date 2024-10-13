@@ -107,6 +107,7 @@
 | [0729-my-calendar-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0729-my-calendar-i) |
 | [0817-design-hashmap](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0859-design-circular-deque) |
+| [0969-number-of-recent-calls](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0969-number-of-recent-calls) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Counting
 |  |
@@ -129,6 +130,7 @@
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0859-design-circular-deque) |
+| [0969-number-of-recent-calls](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0969-number-of-recent-calls) |
 ## Sorting
 |  |
 | ------- |
@@ -153,4 +155,8 @@
 |  |
 | ------- |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
