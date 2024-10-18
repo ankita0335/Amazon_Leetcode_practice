@@ -177,6 +177,7 @@
 |  |
 | ------- |
 | [0871-keys-and-rooms](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0871-keys-and-rooms) |
+| [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Union Find
 |  |
