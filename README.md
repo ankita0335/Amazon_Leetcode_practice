@@ -30,6 +30,7 @@
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0386-lexicographical-numbers) |
 | [0871-keys-and-rooms](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0871-keys-and-rooms) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Trie
 |  |
 | ------- |
@@ -171,8 +172,14 @@
 |  |
 | ------- |
 | [0871-keys-and-rooms](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0871-keys-and-rooms) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Graph
 |  |
 | ------- |
 | [0871-keys-and-rooms](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0871-keys-and-rooms) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+## Union Find
+|  |
+| ------- |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
