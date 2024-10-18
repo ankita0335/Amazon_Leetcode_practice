@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0386-lexicographical-numbers) |
+| [0871-keys-and-rooms](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0871-keys-and-rooms) |
 ## Trie
 |  |
 | ------- |
@@ -166,4 +167,12 @@
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1046-max-consecutive-ones-iii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0871-keys-and-rooms) |
+## Graph
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0871-keys-and-rooms) |
 <!---LeetCode Topics End-->
