@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0042-trapping-rain-water) |
+| [0198-house-robber](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0542-01-matrix) |
 | [0729-my-calendar-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0729-my-calendar-i) |
 | [0817-design-hashmap](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0817-design-hashmap) |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0042-trapping-rain-water) |
+| [0198-house-robber](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0542-01-matrix) |
 | [1025-minimum-cost-for-tickets](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1025-minimum-cost-for-tickets) |
 | [2755-extra-characters-in-a-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2755-extra-characters-in-a-string) |
