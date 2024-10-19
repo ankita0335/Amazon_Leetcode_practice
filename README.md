@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0214-shortest-palindrome) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1923-sentence-similarity-iii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -56,6 +57,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0198-house-robber) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0542-01-matrix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0542-01-matrix) |
 | [0729-my-calendar-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0729-my-calendar-i) |
 | [0817-design-hashmap](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0817-design-hashmap) |
@@ -76,6 +78,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0042-trapping-rain-water) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [1923-sentence-similarity-iii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -103,6 +106,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0817-design-hashmap](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0817-design-hashmap) |
 | [1256-rank-transform-of-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -143,6 +147,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1256-rank-transform-of-an-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
