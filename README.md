@@ -55,6 +55,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0050-powx-n) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Array
 |  |
@@ -218,6 +219,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0050-powx-n) |
 | [1014-k-closest-points-to-origin](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1014-k-closest-points-to-origin) |
 ## Divide and Conquer
 |  |
