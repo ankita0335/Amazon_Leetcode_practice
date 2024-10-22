@@ -61,6 +61,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0198-house-robber) |
 | [0307-range-sum-query-mutable](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0307-range-sum-query-mutable) |
@@ -85,6 +86,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0042-trapping-rain-water) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [1923-sentence-similarity-iii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1923-sentence-similarity-iii) |
