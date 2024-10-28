@@ -9,6 +9,7 @@
 | [0459-repeated-substring-pattern](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0459-repeated-substring-pattern) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0551-student-attendance-record-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0551-student-attendance-record-i) |
 | [0749-shortest-completing-word](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0749-shortest-completing-word) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
