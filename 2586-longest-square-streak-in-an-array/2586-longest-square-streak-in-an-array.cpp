@@ -11,7 +11,7 @@ public:
             while (numSet.count(current)) 
             {
                 currentStreak++;
-                if (current > 3037000499) break;         
+                if (current > LLONG_MAX) break;         
                 current = current * current;
             }
             maxStreak = max(maxStreak, currentStreak);
