@@ -83,6 +83,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1025-minimum-cost-for-tickets) |
 | [1046-max-consecutive-ones-iii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1256-rank-transform-of-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1256-rank-transform-of-an-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -116,6 +117,7 @@
 | [0198-house-robber](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0542-01-matrix) |
 | [1025-minimum-cost-for-tickets](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1025-minimum-cost-for-tickets) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2755-extra-characters-in-a-string) |
 ## Stack
@@ -123,6 +125,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0042-trapping-rain-water) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -130,6 +133,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0042-trapping-rain-water) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -202,6 +206,7 @@
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Heap (Priority Queue)
