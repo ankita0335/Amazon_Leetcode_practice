@@ -294,6 +294,7 @@
 | [0096-unique-binary-search-trees](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0279-perfect-squares) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1014-k-closest-points-to-origin](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1014-k-closest-points-to-origin) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1771-sell-diminishing-valued-colored-balls) |
@@ -329,6 +330,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Binary Search Tree
 |  |
