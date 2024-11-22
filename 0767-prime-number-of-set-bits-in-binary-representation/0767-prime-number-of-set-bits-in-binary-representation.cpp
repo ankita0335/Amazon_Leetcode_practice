@@ -15,7 +15,7 @@ public:
         int res=0;
         while(number>0)
         {
-            res += number%2;
+            res += number%2; //adding set bits only okyy
             number/=2;
         }
         return res;
