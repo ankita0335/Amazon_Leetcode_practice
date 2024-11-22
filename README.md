@@ -76,6 +76,7 @@
 | [0031-next-permutation](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0204-count-primes) |
 | [0307-range-sum-query-mutable](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0307-range-sum-query-mutable) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -288,6 +289,7 @@
 | [0002-add-two-numbers](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0050-powx-n) |
 | [0096-unique-binary-search-trees](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0096-unique-binary-search-trees) |
+| [0204-count-primes](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0279-perfect-squares) |
 | [1014-k-closest-points-to-origin](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1014-k-closest-points-to-origin) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -327,4 +329,12 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0096-unique-binary-search-trees) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
