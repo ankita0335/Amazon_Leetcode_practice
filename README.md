@@ -103,6 +103,7 @@
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1256-rank-transform-of-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1256-rank-transform-of-an-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1539-diagonal-traverse-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1539-diagonal-traverse-ii) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -129,6 +130,7 @@
 | [0522-longest-uncommon-subsequence-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [1454-remove-palindromic-subsequences](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1454-remove-palindromic-subsequences) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1923-sentence-similarity-iii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -173,6 +175,7 @@
 | [0749-shortest-completing-word](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0749-shortest-completing-word) |
 | [0817-design-hashmap](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0817-design-hashmap) |
 | [1256-rank-transform-of-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1256-rank-transform-of-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -203,6 +206,7 @@
 | [0729-my-calendar-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0729-my-calendar-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2586-longest-square-streak-in-an-array) |
 ## Segment Tree
@@ -226,6 +230,7 @@
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [1014-k-closest-points-to-origin](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1014-k-closest-points-to-origin) |
 | [1256-rank-transform-of-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1256-rank-transform-of-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1539-diagonal-traverse-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1539-diagonal-traverse-ii) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1771-sell-diminishing-valued-colored-balls) |
