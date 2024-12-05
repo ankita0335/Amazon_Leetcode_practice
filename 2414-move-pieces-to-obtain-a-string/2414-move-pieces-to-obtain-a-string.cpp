@@ -1,6 +1,8 @@
-class Solution {
+class Solution 
+{
 public:
-    bool canChange(string start, string target) {
+    bool canChange(string start, string target) 
+    {
         int i = 0, j = 0, n = start.size();
         while(i < n || j < n)
         {
@@ -8,6 +10,7 @@ public:
                 i++;
             while(j < n && target[j] == '_')
                 j++;
+           
             if(i == n || j == n)
                 break;
             if(start[i] != target[j])
@@ -21,6 +24,7 @@ public:
             i++;
             j++;
         }
+
         return i == n && j == n;
     }
 };
