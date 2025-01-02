@@ -21,6 +21,7 @@
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2232-adding-spaces-to-a-string) |
@@ -120,6 +121,7 @@
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1830-count-good-meals](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1830-count-good-meals) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1923-sentence-similarity-iii) |
 | [2232-adding-spaces-to-a-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -289,6 +291,7 @@
 | [0303-range-sum-query-immutable](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0303-range-sum-query-immutable) |
 | [1046-max-consecutive-ones-iii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3427-special-array-ii) |
