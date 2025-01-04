@@ -23,6 +23,7 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1923-sentence-similarity-iii) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -202,6 +203,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1830-count-good-meals](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1830-count-good-meals) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2755-extra-characters-in-a-string) |
@@ -294,6 +296,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2358-number-of-ways-to-split-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -386,6 +389,7 @@
 | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Binary Search Tree
 |  |
