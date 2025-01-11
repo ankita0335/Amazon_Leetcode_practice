@@ -247,6 +247,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0278-first-bad-version) |
 | [0729-my-calendar-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0729-my-calendar-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -427,4 +428,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0204-count-primes) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
