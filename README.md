@@ -157,6 +157,7 @@
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3427-special-array-ii) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3639-zero-array-transformation-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3639-zero-array-transformation-i) |
 ## Two Pointers
@@ -178,6 +179,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -289,6 +291,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2586-longest-square-streak-in-an-array) |
 | [2650-split-with-minimum-sum](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2650-split-with-minimum-sum) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Simulation
 |  |
 | ------- |
