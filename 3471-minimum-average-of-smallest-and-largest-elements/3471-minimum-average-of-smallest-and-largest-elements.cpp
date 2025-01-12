@@ -4,7 +4,7 @@ public:
         sort(nums.begin(), nums.end());
         int n = nums.size();
         int i = 0, j= n-1;
-        double mini = INT_MAX;
+        double mini = INT_MAX;       //DBL_MAX can also be used oky 
         while(i<j)
         {
             int a = nums[i];
