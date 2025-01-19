@@ -149,6 +149,7 @@
 | [1830-count-good-meals](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1830-count-good-meals) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1923-sentence-similarity-iii) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2232-adding-spaces-to-a-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2358-number-of-ways-to-split-array) |
@@ -206,6 +207,7 @@
 | [1418-fair-distribution-of-cookies](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1418-fair-distribution-of-cookies) |
 | [1503-reducing-dishes](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1503-reducing-dishes) |
 | [1761-count-sorted-vowel-strings](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1761-count-sorted-vowel-strings) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2755-extra-characters-in-a-string) |
 ## Stack
