@@ -73,6 +73,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0386-lexicographical-numbers) |
 | [0572-subtree-of-another-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0695-max-area-of-island) |
 | [0871-keys-and-rooms](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0871-keys-and-rooms) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0988-flip-equivalent-binary-trees) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -119,6 +120,7 @@
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0542-01-matrix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0542-01-matrix) |
 | [0554-brick-wall](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0554-brick-wall) |
+| [0695-max-area-of-island](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0695-max-area-of-island) |
 | [0729-my-calendar-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0729-my-calendar-i) |
 | [0740-delete-and-earn](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0740-delete-and-earn) |
 | [0749-shortest-completing-word](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0749-shortest-completing-word) |
@@ -376,6 +378,7 @@
 | [0279-perfect-squares](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0542-01-matrix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0695-max-area-of-island) |
 | [0871-keys-and-rooms](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0871-keys-and-rooms) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -388,11 +391,13 @@
 ## Union Find
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0695-max-area-of-island) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Matrix
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0695-max-area-of-island) |
 | [0861-flipping-an-image](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0861-flipping-an-image) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Binary Indexed Tree
