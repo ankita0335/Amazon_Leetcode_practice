@@ -170,6 +170,7 @@
 | [3114-beautiful-towers-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3114-beautiful-towers-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3427-special-array-ii) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
