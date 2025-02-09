@@ -155,6 +155,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1923-sentence-similarity-iii) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2232-adding-spaces-to-a-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -256,6 +257,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1830-count-good-meals](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1830-count-good-meals) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2586-longest-square-streak-in-an-array) |
@@ -278,6 +280,7 @@
 | [1364-tuple-with-same-product](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1364-tuple-with-same-product) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Binary Search
 |  |
@@ -428,6 +431,7 @@
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1761-count-sorted-vowel-strings](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1761-count-sorted-vowel-strings) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1771-sell-diminishing-valued-colored-balls) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2650-split-with-minimum-sum](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2650-split-with-minimum-sum) |
 ## Divide and Conquer
 |  |
