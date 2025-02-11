@@ -15,6 +15,7 @@
 | [0522-longest-uncommon-subsequence-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0551-student-attendance-record-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0551-student-attendance-record-i) |
+| [0721-accounts-merge](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0721-accounts-merge) |
 | [0749-shortest-completing-word](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0749-shortest-completing-word) |
 | [0952-word-subsets](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -76,6 +77,7 @@
 | [0547-number-of-provinces](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0721-accounts-merge) |
 | [0871-keys-and-rooms](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0871-keys-and-rooms) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0988-flip-equivalent-binary-trees) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -124,6 +126,7 @@
 | [0542-01-matrix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0542-01-matrix) |
 | [0554-brick-wall](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0554-brick-wall) |
 | [0695-max-area-of-island](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0721-accounts-merge) |
 | [0729-my-calendar-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0729-my-calendar-i) |
 | [0740-delete-and-earn](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0740-delete-and-earn) |
 | [0749-shortest-completing-word](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0749-shortest-completing-word) |
@@ -248,6 +251,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0554-brick-wall](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0554-brick-wall) |
+| [0721-accounts-merge](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0740-delete-and-earn) |
 | [0749-shortest-completing-word](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0749-shortest-completing-word) |
 | [0817-design-hashmap](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0817-design-hashmap) |
@@ -316,6 +320,7 @@
 | ------- |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0721-accounts-merge](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0721-accounts-merge) |
 | [0941-sort-array-by-parity](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0941-sort-array-by-parity) |
 | [1014-k-closest-points-to-origin](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1014-k-closest-points-to-origin) |
 | [1256-rank-transform-of-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1256-rank-transform-of-an-array) |
@@ -395,6 +400,7 @@
 | [0542-01-matrix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0721-accounts-merge) |
 | [0871-keys-and-rooms](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0871-keys-and-rooms) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -410,6 +416,7 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0721-accounts-merge) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Matrix
 |  |
