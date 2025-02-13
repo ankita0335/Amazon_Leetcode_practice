@@ -177,6 +177,7 @@
 | [3114-beautiful-towers-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3114-beautiful-towers-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3427-special-array-ii) |
@@ -343,6 +344,7 @@
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3447-clear-digits) |
 ## Greedy
 |  |
@@ -364,6 +366,7 @@
 | [1539-diagonal-traverse-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1539-diagonal-traverse-ii) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Prefix Sum
 |  |
 | ------- |
