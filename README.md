@@ -6,6 +6,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0139-word-break) |
 | [0214-shortest-palindrome](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0214-shortest-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -72,6 +73,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0079-word-search) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0547-number-of-provinces) |
@@ -113,6 +115,7 @@
 | [0031-next-permutation](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0047-permutations-ii) |
+| [0079-word-search](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -426,6 +429,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0174-dungeon-game) |
 | [0542-01-matrix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0695-max-area-of-island) |
@@ -470,6 +474,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0022-generate-parentheses) |
 | [0047-permutations-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0047-permutations-ii) |
+| [0079-word-search](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0079-word-search) |
 | [1418-fair-distribution-of-cookies](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1418-fair-distribution-of-cookies) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Tree
