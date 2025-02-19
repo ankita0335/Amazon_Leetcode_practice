@@ -24,6 +24,7 @@
 | [1160-letter-tile-possibilities](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1160-letter-tile-possibilities) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1454-remove-palindromic-subsequences](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1454-remove-palindromic-subsequences) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1524-string-matching-in-an-array) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -489,6 +490,7 @@
 | [0212-word-search-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0212-word-search-ii) |
 | [1160-letter-tile-possibilities](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1160-letter-tile-possibilities) |
 | [1418-fair-distribution-of-cookies](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1418-fair-distribution-of-cookies) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Tree
 |  |
