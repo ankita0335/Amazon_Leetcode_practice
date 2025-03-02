@@ -190,6 +190,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2586-longest-square-streak-in-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2714-left-and-right-sum-differences) |
 | [2755-extra-characters-in-a-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2755-extra-characters-in-a-string) |
 | [2792-neighboring-bitwise-xor](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2792-neighboring-bitwise-xor) |
@@ -226,6 +227,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2551-apply-operations-to-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Dynamic Programming
@@ -296,6 +298,7 @@
 | [2107-find-unique-binary-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2107-find-unique-binary-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2586-longest-square-streak-in-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Design
