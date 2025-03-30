@@ -19,6 +19,7 @@
 | [0551-student-attendance-record-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0551-student-attendance-record-i) |
 | [0721-accounts-merge](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0721-accounts-merge) |
 | [0749-shortest-completing-word](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0749-shortest-completing-word) |
+| [0768-partition-labels](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1160-letter-tile-possibilities](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1160-letter-tile-possibilities) |
@@ -218,6 +219,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0768-partition-labels](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0768-partition-labels) |
 | [0861-flipping-an-image](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0941-sort-array-by-parity) |
 | [1454-remove-palindromic-subsequences](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1454-remove-palindromic-subsequences) |
@@ -288,6 +290,7 @@
 | [0721-accounts-merge](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0740-delete-and-earn) |
 | [0749-shortest-completing-word](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0749-shortest-completing-word) |
+| [0768-partition-labels](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0768-partition-labels) |
 | [0817-design-hashmap](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0817-design-hashmap) |
 | [0952-word-subsets](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1160-letter-tile-possibilities) |
@@ -393,6 +396,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0768-partition-labels](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0768-partition-labels) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
