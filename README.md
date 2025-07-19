@@ -127,6 +127,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0047-permutations-ii) |
@@ -290,6 +291,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0139-word-break](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0139-word-break) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
