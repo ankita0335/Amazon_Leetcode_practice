@@ -605,4 +605,8 @@
 |  |
 | ------- |
 | [1418-fair-distribution-of-cookies](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1418-fair-distribution-of-cookies) |
+## Database
+|  |
+| ------- |
+| [1801-average-time-of-process-per-machine](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1801-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
