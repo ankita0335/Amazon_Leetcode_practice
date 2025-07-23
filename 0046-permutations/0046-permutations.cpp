@@ -1,30 +1,31 @@
 class Solution {
 public:
-    void solve(vector<vector<int>>&res, vector<int>&tmp, unordered_set<int>&s,vector<int>&nums)
+    vector<vector<int>>res;
+    int n;
+    void solve(int idx, vector<int>& nums) 
     {
-        if(tmp.size() == nums.size())
+        if(idx == n) 
         {
-            res.push_back(tmp);
+            res.push_back(nums);
             return;
         }
-        for(int i=0;i<nums.size();i++)
-        {
-            if(s.find(nums[i]) == s.end())
+        unordered_set<int>s;
+        for(int i = idx; i < n; i++) 
+        {    
+            if(s.count(nums[i]) > 0) 
             {
-                tmp.push_back(nums[i]);
-                s.insert(nums[i]);
-                solve(res, tmp, s, nums);
-                tmp.pop_back();
-                s.erase(nums[i]);
+                continue;
             }
+            s.insert(nums[i]);
+            swap(nums[i], nums[idx]);
+            solve(idx+1, nums);
+            swap(nums[i], nums[idx]);
         }
     }
     vector<vector<int>> permute(vector<int>& nums) 
     {
-        vector<vector<int>>res;
-        vector<int>tmp;
-        unordered_set<int>s;
-        solve(res, tmp,s, nums);
-        return res;    
+        n = nums.size();
+        solve(0, nums);
+        return res;  
     }
 };
