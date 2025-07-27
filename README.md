@@ -114,6 +114,7 @@
 | [0002-add-two-numbers](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0025-reverse-nodes-in-k-group) |
+| [0146-lru-cache](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0146-lru-cache) |
 | [0817-design-hashmap](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0859-design-circular-deque) |
 ## Recursion
@@ -298,6 +299,7 @@
 | [0001-two-sum](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0139-word-break](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0146-lru-cache) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -331,6 +333,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0146-lru-cache) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0307-range-sum-query-mutable) |
@@ -617,4 +620,8 @@
 | ------- |
 | [0176-second-highest-salary](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0176-second-highest-salary) |
 | [1801-average-time-of-process-per-machine](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1801-average-time-of-process-per-machine) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
