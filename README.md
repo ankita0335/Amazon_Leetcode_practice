@@ -195,6 +195,7 @@
 | [2262-solving-questions-with-brainpower](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2358-number-of-ways-to-split-array) |
