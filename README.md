@@ -531,6 +531,7 @@
 | [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3227-find-missing-and-repeated-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Divide and Conquer
 |  |
 | ------- |
