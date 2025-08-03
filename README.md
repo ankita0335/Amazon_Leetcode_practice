@@ -136,6 +136,7 @@
 | [0046-permutations](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0079-word-search) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0137-single-number-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0139-word-break) |
@@ -260,6 +261,7 @@
 | [0042-trapping-rain-water](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0096-unique-binary-search-trees) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0152-maximum-product-subarray) |
