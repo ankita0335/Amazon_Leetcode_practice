@@ -82,6 +82,7 @@
 | ------- |
 | [0214-shortest-palindrome](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0572-subtree-of-another-tree) |
+| [0816-design-hashset](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0817-design-hashmap) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Depth-First Search
@@ -116,6 +117,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0146-lru-cache](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0146-lru-cache) |
+| [0816-design-hashset](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0859-design-circular-deque) |
 ## Recursion
@@ -160,6 +162,7 @@
 | [0729-my-calendar-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0729-my-calendar-i) |
 | [0740-delete-and-earn](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0740-delete-and-earn) |
 | [0749-shortest-completing-word](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0749-shortest-completing-word) |
+| [0816-design-hashset](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0859-design-circular-deque) |
 | [0861-flipping-an-image](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0861-flipping-an-image) |
@@ -315,6 +318,7 @@
 | [0740-delete-and-earn](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0740-delete-and-earn) |
 | [0749-shortest-completing-word](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0749-shortest-completing-word) |
 | [0768-partition-labels](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0768-partition-labels) |
+| [0816-design-hashset](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0817-design-hashmap) |
 | [0952-word-subsets](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1160-letter-tile-possibilities) |
@@ -345,6 +349,7 @@
 | [0303-range-sum-query-immutable](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0307-range-sum-query-mutable) |
 | [0729-my-calendar-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0729-my-calendar-i) |
+| [0816-design-hashset](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0969-number-of-recent-calls) |
