@@ -27,6 +27,7 @@
 | [0841-shortest-distance-to-a-character](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0841-shortest-distance-to-a-character) |
 | [0878-shifting-letters](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0878-shifting-letters) |
 | [0952-word-subsets](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0952-word-subsets) |
+| [0953-reverse-only-letters](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0953-reverse-only-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1160-letter-tile-possibilities](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1160-letter-tile-possibilities) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -245,6 +246,7 @@
 | [0841-shortest-distance-to-a-character](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0941-sort-array-by-parity) |
+| [0953-reverse-only-letters](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0953-reverse-only-letters) |
 | [0958-sort-array-by-parity-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0958-sort-array-by-parity-ii) |
 | [1454-remove-palindromic-subsequences](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1454-remove-palindromic-subsequences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1468-check-if-n-and-its-double-exist) |
