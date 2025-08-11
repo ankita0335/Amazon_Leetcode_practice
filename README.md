@@ -24,6 +24,7 @@
 | [0721-accounts-merge](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0721-accounts-merge) |
 | [0749-shortest-completing-word](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0749-shortest-completing-word) |
 | [0768-partition-labels](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0768-partition-labels) |
+| [0841-shortest-distance-to-a-character](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0841-shortest-distance-to-a-character) |
 | [0878-shifting-letters](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0878-shifting-letters) |
 | [0952-word-subsets](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -164,6 +165,7 @@
 | [0749-shortest-completing-word](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0749-shortest-completing-word) |
 | [0816-design-hashset](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0817-design-hashmap) |
+| [0841-shortest-distance-to-a-character](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0841-shortest-distance-to-a-character) |
 | [0859-design-circular-deque](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0859-design-circular-deque) |
 | [0861-flipping-an-image](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0861-flipping-an-image) |
 | [0878-shifting-letters](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0878-shifting-letters) |
@@ -239,6 +241,7 @@
 | [0522-longest-uncommon-subsequence-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0768-partition-labels](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0768-partition-labels) |
+| [0841-shortest-distance-to-a-character](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0941-sort-array-by-parity) |
 | [1454-remove-palindromic-subsequences](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1454-remove-palindromic-subsequences) |
