@@ -129,6 +129,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0326-power-of-three) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Array
@@ -544,6 +545,7 @@
 | [0096-unique-binary-search-trees](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0279-perfect-squares) |
+| [0326-power-of-three](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0371-sum-of-two-integers) |
 | [0537-complex-number-multiplication](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0537-complex-number-multiplication) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
