@@ -95,6 +95,7 @@
 | [0386-lexicographical-numbers](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0572-subtree-of-another-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0695-max-area-of-island](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0721-accounts-merge) |
 | [0871-keys-and-rooms](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0871-keys-and-rooms) |
@@ -606,6 +607,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0572-subtree-of-another-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0988-flip-equivalent-binary-trees) |
 ## Binary Tree
 |  |
@@ -614,6 +616,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0572-subtree-of-another-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0988-flip-equivalent-binary-trees) |
 ## Bit Manipulation
 |  |
