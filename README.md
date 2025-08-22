@@ -100,6 +100,7 @@
 | [0721-accounts-merge](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0721-accounts-merge) |
 | [0871-keys-and-rooms](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0871-keys-and-rooms) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0988-flip-equivalent-binary-trees) |
+| [1035-cousins-in-binary-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1035-cousins-in-binary-tree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Trie
 |  |
@@ -515,6 +516,7 @@
 | [0695-max-area-of-island](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0721-accounts-merge) |
 | [0871-keys-and-rooms](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0871-keys-and-rooms) |
+| [1035-cousins-in-binary-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1035-cousins-in-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Graph
@@ -609,6 +611,7 @@
 | [0572-subtree-of-another-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0572-subtree-of-another-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0988-flip-equivalent-binary-trees) |
+| [1035-cousins-in-binary-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -618,6 +621,7 @@
 | [0572-subtree-of-another-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0572-subtree-of-another-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0988-flip-equivalent-binary-trees) |
+| [1035-cousins-in-binary-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1035-cousins-in-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
