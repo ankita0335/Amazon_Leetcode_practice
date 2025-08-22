@@ -99,6 +99,7 @@
 | [0695-max-area-of-island](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0721-accounts-merge) |
 | [0871-keys-and-rooms](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0871-keys-and-rooms) |
+| [0933-increasing-order-search-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0933-increasing-order-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1035-cousins-in-binary-tree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -301,6 +302,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0042-trapping-rain-water) |
+| [0933-increasing-order-search-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0933-increasing-order-search-tree) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -617,6 +619,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0572-subtree-of-another-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0933-increasing-order-search-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0933-increasing-order-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Tree
@@ -627,6 +630,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0572-subtree-of-another-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0933-increasing-order-search-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0933-increasing-order-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1035-cousins-in-binary-tree) |
 ## Bit Manipulation
@@ -648,6 +652,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0096-unique-binary-search-trees) |
+| [0933-increasing-order-search-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0933-increasing-order-search-tree) |
 ## Enumeration
 |  |
 | ------- |
