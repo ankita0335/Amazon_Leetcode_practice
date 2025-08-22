@@ -17,13 +17,14 @@ public:
         q.push(node);
         while(!q.empty())
         {   
-            unordered_map<int, int>mp;
+            bool foundx=false, foundy=false;
             int n = q.size();
             for(int i=0;i<n;i++)
             {
                 TreeNode* curr= q.front();
                 q.pop();
-                mp[curr->val]++;
+                if(curr->val ==x)   foundx= true;
+                if(curr->val==y)    foundy=true;
                 if(curr->left && curr->right)
                 {
                     if((curr->left->val ==x && curr->right->val == y) || (curr->left->val ==y && curr->right->val == x))
@@ -32,9 +33,9 @@ public:
                 if(curr->left)  q.push(curr->left); // queue mai push bhi to krna hoga na sth mai
                 if(curr->right) q.push(curr->right);
             }
-            if(mp.find(x)!= mp.end() && mp.find(y)!= mp.end())
+            if(foundx && foundy)
                 return true;
-            if(mp.find(x)!= mp.end() || mp.find(y)!=mp.end())   return false;
+            if(foundx || foundy)   return false;
         }
         return false;
     }
