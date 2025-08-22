@@ -350,6 +350,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2107-find-unique-binary-string) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2434-design-a-number-container-system](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2434-design-a-number-container-system) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2586-longest-square-streak-in-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -370,6 +371,7 @@
 | [0969-number-of-recent-calls](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0969-number-of-recent-calls) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1955-seat-reservation-manager](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1955-seat-reservation-manager) |
+| [2434-design-a-number-container-system](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2434-design-a-number-container-system) |
 ## Counting
 |  |
 | ------- |
@@ -404,6 +406,7 @@
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0729-my-calendar-i) |
+| [2434-design-a-number-container-system](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2434-design-a-number-container-system) |
 ## Queue
 |  |
 | ------- |
@@ -472,6 +475,7 @@
 | [1539-diagonal-traverse-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1539-diagonal-traverse-ii) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1955-seat-reservation-manager](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1955-seat-reservation-manager) |
+| [2434-design-a-number-container-system](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2434-design-a-number-container-system) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Prefix Sum
