@@ -370,6 +370,7 @@
 | [0859-design-circular-deque](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0969-number-of-recent-calls) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1708-design-parking-system](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1708-design-parking-system) |
 | [1955-seat-reservation-manager](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1955-seat-reservation-manager) |
 | [2434-design-a-number-container-system](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2434-design-a-number-container-system) |
 ## Counting
@@ -380,6 +381,7 @@
 | [1160-letter-tile-possibilities](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1364-tuple-with-same-product) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1708-design-parking-system](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1708-design-parking-system) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -442,6 +444,7 @@
 | [0861-flipping-an-image](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0861-flipping-an-image) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1708-design-parking-system](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1708-design-parking-system) |
 | [2232-adding-spaces-to-a-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2551-apply-operations-to-an-array) |
