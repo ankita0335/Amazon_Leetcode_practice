@@ -102,6 +102,7 @@
 | [0933-increasing-order-search-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0933-increasing-order-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1035-cousins-in-binary-tree) |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Trie
 |  |
@@ -527,6 +528,7 @@
 | [0871-keys-and-rooms](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0871-keys-and-rooms) |
 | [1035-cousins-in-binary-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1035-cousins-in-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Graph
 |  |
@@ -622,6 +624,7 @@
 | [0933-increasing-order-search-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0933-increasing-order-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1035-cousins-in-binary-tree) |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -633,6 +636,7 @@
 | [0933-increasing-order-search-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0933-increasing-order-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1035-cousins-in-binary-tree) |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
