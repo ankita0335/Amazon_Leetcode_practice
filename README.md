@@ -206,6 +206,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1923-sentence-similarity-iii) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2107-find-unique-binary-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2107-find-unique-binary-string) |
@@ -350,6 +351,7 @@
 | [1830-count-good-meals](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1830-count-good-meals) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2107-find-unique-binary-string) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
@@ -375,6 +377,7 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1708-design-parking-system](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1708-design-parking-system) |
 | [1955-seat-reservation-manager](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1955-seat-reservation-manager) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2434-design-a-number-container-system](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2434-design-a-number-container-system) |
 ## Counting
 |  |
