@@ -26,6 +26,7 @@
 | [0768-partition-labels](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0768-partition-labels) |
 | [0841-shortest-distance-to-a-character](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0841-shortest-distance-to-a-character) |
 | [0878-shifting-letters](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0878-shifting-letters) |
+| [0886-score-of-parentheses](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0886-score-of-parentheses) |
 | [0952-word-subsets](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0952-word-subsets) |
 | [0953-reverse-only-letters](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0953-reverse-only-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -305,6 +306,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0042-trapping-rain-water) |
+| [0886-score-of-parentheses](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0886-score-of-parentheses) |
 | [0933-increasing-order-search-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0933-increasing-order-search-tree) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1228-minimum-cost-tree-from-leaf-values) |
