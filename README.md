@@ -43,6 +43,7 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1923-sentence-similarity-iii) |
+| [2010-check-if-word-equals-summation-of-two-words](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
