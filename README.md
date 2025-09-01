@@ -234,6 +234,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2698-find-the-array-concatenation-value](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2698-find-the-array-concatenation-value) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2714-left-and-right-sum-differences) |
 | [2755-extra-characters-in-a-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2755-extra-characters-in-a-string) |
@@ -280,6 +281,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2698-find-the-array-concatenation-value](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2698-find-the-array-concatenation-value) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -416,6 +418,7 @@
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3427-special-array-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3427-special-array-ii) |
 ## Segment Tree
 |  |
@@ -455,6 +458,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2586-longest-square-streak-in-an-array) |
 | [2650-split-with-minimum-sum](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2650-split-with-minimum-sum) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Simulation
 |  |
