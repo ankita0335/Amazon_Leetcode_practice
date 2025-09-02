@@ -241,6 +241,7 @@
 | [2792-neighboring-bitwise-xor](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2792-neighboring-bitwise-xor) |
 | [3114-beautiful-towers-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3114-beautiful-towers-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3227-find-missing-and-repeated-values) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -459,6 +460,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2586-longest-square-streak-in-an-array) |
 | [2650-split-with-minimum-sum](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2650-split-with-minimum-sum) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Simulation
 |  |
@@ -606,6 +608,7 @@
 | [2650-split-with-minimum-sum](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2650-split-with-minimum-sum) |
 | [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3227-find-missing-and-repeated-values) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Divide and Conquer
@@ -618,6 +621,7 @@
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1014-k-closest-points-to-origin) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -686,6 +690,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0204-count-primes) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Number Theory
 |  |
 | ------- |
