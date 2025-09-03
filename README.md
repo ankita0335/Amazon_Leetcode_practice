@@ -145,6 +145,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0042-trapping-rain-water) |
@@ -410,6 +411,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0278-first-bad-version) |
 | [0729-my-calendar-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0729-my-calendar-i) |
@@ -614,6 +616,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1014-k-closest-points-to-origin) |
