@@ -615,6 +615,7 @@
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3830-find-closest-person](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3830-find-closest-person) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Divide and Conquer
 |  |
