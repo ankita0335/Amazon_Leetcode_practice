@@ -30,6 +30,7 @@
 | [0952-word-subsets](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0952-word-subsets) |
 | [0953-reverse-only-letters](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0953-reverse-only-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0965-unique-email-addresses](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0965-unique-email-addresses) |
 | [0979-di-string-match](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0979-di-string-match) |
 | [1160-letter-tile-possibilities](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1160-letter-tile-possibilities) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -186,6 +187,7 @@
 | [0941-sort-array-by-parity](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0941-sort-array-by-parity) |
 | [0952-word-subsets](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0952-word-subsets) |
 | [0958-sort-array-by-parity-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0958-sort-array-by-parity-ii) |
+| [0965-unique-email-addresses](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0965-unique-email-addresses) |
 | [0978-valid-mountain-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0978-valid-mountain-array) |
 | [0979-di-string-match](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0979-di-string-match) |
 | [1014-k-closest-points-to-origin](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1014-k-closest-points-to-origin) |
@@ -358,6 +360,7 @@
 | [0816-design-hashset](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0817-design-hashmap) |
 | [0952-word-subsets](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0952-word-subsets) |
+| [0965-unique-email-addresses](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0965-unique-email-addresses) |
 | [1160-letter-tile-possibilities](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1160-letter-tile-possibilities) |
 | [1256-rank-transform-of-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1364-tuple-with-same-product) |
