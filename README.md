@@ -140,6 +140,7 @@
 | [0050-powx-n](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1013-fibonacci-number) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Array
@@ -308,6 +309,7 @@
 | [0279-perfect-squares](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0279-perfect-squares) |
 | [0542-01-matrix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0542-01-matrix) |
 | [0740-delete-and-earn](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0740-delete-and-earn) |
+| [1013-fibonacci-number](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1025-minimum-cost-for-tickets) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1418-fair-distribution-of-cookies](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1418-fair-distribution-of-cookies) |
@@ -607,6 +609,7 @@
 | [0371-sum-of-two-integers](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0371-sum-of-two-integers) |
 | [0537-complex-number-multiplication](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0537-complex-number-multiplication) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [1013-fibonacci-number](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1014-k-closest-points-to-origin) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -720,6 +723,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0139-word-break) |
+| [1013-fibonacci-number](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1013-fibonacci-number) |
 ## Combinatorics
 |  |
 | ------- |
