@@ -13,7 +13,7 @@ public:
                 {
                     while(i<email.size() && email[i]!='@')
                         i++;
-                    break;
+                    break;//for @
                 }
                 else if(email[i]=='.')
                 {
