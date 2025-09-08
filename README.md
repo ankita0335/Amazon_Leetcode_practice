@@ -21,6 +21,7 @@
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0537-complex-number-multiplication](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0537-complex-number-multiplication) |
 | [0551-student-attendance-record-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0551-student-attendance-record-i) |
+| [0606-construct-string-from-binary-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0606-construct-string-from-binary-tree) |
 | [0721-accounts-merge](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0721-accounts-merge) |
 | [0749-shortest-completing-word](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0749-shortest-completing-word) |
 | [0768-partition-labels](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0768-partition-labels) |
@@ -100,6 +101,7 @@
 | [0386-lexicographical-numbers](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0572-subtree-of-another-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0606-construct-string-from-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0695-max-area-of-island](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0721-accounts-merge) |
@@ -668,6 +670,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0572-subtree-of-another-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0606-construct-string-from-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0933-increasing-order-search-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0933-increasing-order-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0988-flip-equivalent-binary-trees) |
@@ -680,6 +683,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0572-subtree-of-another-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0606-construct-string-from-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0933-increasing-order-search-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0933-increasing-order-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0988-flip-equivalent-binary-trees) |
