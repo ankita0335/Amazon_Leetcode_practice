@@ -19,6 +19,7 @@ public:
             mp[num]--;
             //explore
             solve(mp,tmp);
+            //undoo 
             tmp.pop_back();
             mp[num]++;
         }
