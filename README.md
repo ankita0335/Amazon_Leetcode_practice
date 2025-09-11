@@ -65,6 +65,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2816-lexicographically-smallest-palindrome) |
+| [2887-sort-vowels-in-a-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2887-sort-vowels-in-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -473,6 +474,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2586-longest-square-streak-in-an-array) |
 | [2650-split-with-minimum-sum](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2650-split-with-minimum-sum) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2887-sort-vowels-in-a-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
