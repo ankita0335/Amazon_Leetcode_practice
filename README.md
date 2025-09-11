@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0022-generate-parentheses) |
@@ -138,6 +139,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0050-powx-n) |
@@ -300,6 +302,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0070-climbing-stairs) |
