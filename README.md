@@ -15,6 +15,7 @@
 | [0214-shortest-palindrome](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0214-shortest-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0318-maximum-product-of-word-lengths](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0318-maximum-product-of-word-lengths) |
+| [0399-evaluate-division](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0399-evaluate-division) |
 | [0409-longest-palindrome](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0459-repeated-substring-pattern) |
@@ -103,6 +104,7 @@
 | [0079-word-search](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0079-word-search) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0386-lexicographical-numbers) |
+| [0399-evaluate-division](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0606-construct-string-from-binary-tree) |
@@ -177,6 +179,7 @@
 | [0307-range-sum-query-mutable](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0307-range-sum-query-mutable) |
 | [0318-maximum-product-of-word-lengths](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0347-top-k-frequent-elements](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0347-top-k-frequent-elements) |
+| [0399-evaluate-division](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0399-evaluate-division) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -569,6 +572,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0279-perfect-squares](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0399-evaluate-division](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0399-evaluate-division) |
 | [0542-01-matrix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0695-max-area-of-island) |
@@ -581,6 +585,7 @@
 ## Graph
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0871-keys-and-rooms) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
@@ -588,6 +593,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0721-accounts-merge) |
@@ -773,4 +779,8 @@
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3462-vowels-game-in-a-string) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
