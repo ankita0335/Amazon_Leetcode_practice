@@ -73,6 +73,7 @@
 | [3447-clear-digits](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3451-string-compression-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3462-vowels-game-in-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -393,6 +394,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2755-extra-characters-in-a-string) |
 | [3227-find-missing-and-repeated-values](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3227-find-missing-and-repeated-values) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Design
 |  |
 | ------- |
@@ -423,6 +425,7 @@
 | [1925-count-nice-pairs-in-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
 | ------- |
