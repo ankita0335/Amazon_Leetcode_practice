@@ -185,6 +185,7 @@
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0542-01-matrix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0542-01-matrix) |
 | [0554-brick-wall](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0554-brick-wall) |
+| [0560-subarray-sum-equals-k](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0721-accounts-merge) |
 | [0729-my-calendar-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0729-my-calendar-i) |
@@ -367,6 +368,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0554-brick-wall](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0554-brick-wall) |
+| [0560-subarray-sum-equals-k](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0740-delete-and-earn) |
 | [0749-shortest-completing-word](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0749-shortest-completing-word) |
@@ -539,6 +541,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0878-shifting-letters](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0878-shifting-letters) |
 | [1046-max-consecutive-ones-iii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1537-maximum-score-after-splitting-a-string) |
