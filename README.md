@@ -17,6 +17,7 @@
 | [0318-maximum-product-of-word-lengths](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0399-evaluate-division](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0399-evaluate-division) |
 | [0409-longest-palindrome](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0459-repeated-substring-pattern) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -493,6 +494,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0412-fizz-buzz) |
 | [0537-complex-number-multiplication](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0537-complex-number-multiplication) |
 | [0861-flipping-an-image](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0861-flipping-an-image) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -629,6 +631,7 @@
 | [0326-power-of-three](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0412-fizz-buzz) |
 | [0537-complex-number-multiplication](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0537-complex-number-multiplication) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0795-k-th-symbol-in-grammar) |
