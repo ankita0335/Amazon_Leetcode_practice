@@ -213,6 +213,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1256-rank-transform-of-an-array) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1364-tuple-with-same-product](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1364-tuple-with-same-product) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1370-count-number-of-nice-subarrays) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1418-fair-distribution-of-cookies](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1418-fair-distribution-of-cookies) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -381,6 +382,7 @@
 | [1160-letter-tile-possibilities](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1160-letter-tile-possibilities) |
 | [1256-rank-transform-of-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1364-tuple-with-same-product) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -546,6 +548,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0878-shifting-letters](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0878-shifting-letters) |
 | [1046-max-consecutive-ones-iii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1370-count-number-of-nice-subarrays) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -565,6 +568,7 @@
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1046-max-consecutive-ones-iii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1755-defuse-the-bomb) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
@@ -638,6 +642,7 @@
 | [1013-fibonacci-number](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1014-k-closest-points-to-origin) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1370-count-number-of-nice-subarrays) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
