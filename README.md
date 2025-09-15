@@ -37,6 +37,7 @@
 | [0965-unique-email-addresses](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0965-unique-email-addresses) |
 | [0979-di-string-match](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0979-di-string-match) |
 | [1160-letter-tile-possibilities](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1160-letter-tile-possibilities) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1454-remove-palindromic-subsequences](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1454-remove-palindromic-subsequences) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -383,6 +384,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0966-binary-subarrays-with-sum) |
 | [1160-letter-tile-possibilities](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1160-letter-tile-possibilities) |
 | [1256-rank-transform-of-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1256-rank-transform-of-an-array) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1364-tuple-with-same-product](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
