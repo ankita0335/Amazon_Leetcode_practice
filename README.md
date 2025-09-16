@@ -242,6 +242,7 @@
 | [2262-solving-questions-with-brainpower](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2341-count-prefixes-of-a-given-string) |
@@ -348,6 +349,7 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3114-beautiful-towers-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3114-beautiful-towers-i) |
 | [3447-clear-digits](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3447-clear-digits) |
@@ -655,6 +657,7 @@
 | [1761-count-sorted-vowel-strings](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1761-count-sorted-vowel-strings) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1925-count-nice-pairs-in-an-array) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2650-split-with-minimum-sum](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2650-split-with-minimum-sum) |
 | [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3227-find-missing-and-repeated-values) |
@@ -756,6 +759,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0204-count-primes) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Interactive
 |  |
 | ------- |
