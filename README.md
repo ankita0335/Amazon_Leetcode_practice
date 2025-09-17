@@ -61,6 +61,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2429-design-a-food-rating-system](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2429-design-a-food-rating-system) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -247,6 +248,7 @@
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2358-number-of-ways-to-split-array) |
+| [2429-design-a-food-rating-system](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2429-design-a-food-rating-system) |
 | [2465-shifting-letters-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -401,6 +403,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2107-find-unique-binary-string) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2429-design-a-food-rating-system](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2434-design-a-number-container-system) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2586-longest-square-streak-in-an-array) |
@@ -425,6 +428,7 @@
 | [1708-design-parking-system](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1708-design-parking-system) |
 | [1955-seat-reservation-manager](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1955-seat-reservation-manager) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2429-design-a-food-rating-system](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2434-design-a-number-container-system) |
 ## Counting
 |  |
@@ -464,6 +468,7 @@
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0729-my-calendar-i) |
+| [2429-design-a-food-rating-system](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2434-design-a-number-container-system) |
 ## Queue
 |  |
@@ -544,6 +549,7 @@
 | [1539-diagonal-traverse-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1539-diagonal-traverse-ii) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1955-seat-reservation-manager](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1955-seat-reservation-manager) |
+| [2429-design-a-food-rating-system](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2434-design-a-number-container-system) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
