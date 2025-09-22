@@ -268,6 +268,7 @@
 | [2792-neighboring-bitwise-xor](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2792-neighboring-bitwise-xor) |
 | [3114-beautiful-towers-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3114-beautiful-towers-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -415,6 +416,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2755-extra-characters-in-a-string) |
 | [3227-find-missing-and-repeated-values](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Design
@@ -449,6 +451,7 @@
 | [1925-count-nice-pairs-in-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
