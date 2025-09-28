@@ -213,6 +213,7 @@
 | [0978-valid-mountain-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0978-valid-mountain-array) |
 | [0979-di-string-match](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0979-di-string-match) |
 | [1014-k-closest-points-to-origin](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1014-k-closest-points-to-origin) |
+| [1018-largest-perimeter-triangle](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1018-largest-perimeter-triangle) |
 | [1025-minimum-cost-for-tickets](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1025-minimum-cost-for-tickets) |
 | [1046-max-consecutive-ones-iii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -504,6 +505,7 @@
 | [0948-sort-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0958-sort-array-by-parity-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1014-k-closest-points-to-origin) |
+| [1018-largest-perimeter-triangle](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1018-largest-perimeter-triangle) |
 | [1256-rank-transform-of-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1503-reducing-dishes](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1503-reducing-dishes) |
@@ -547,6 +549,7 @@
 | [0768-partition-labels](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0768-partition-labels) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0979-di-string-match) |
+| [1018-largest-perimeter-triangle](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1018-largest-perimeter-triangle) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1503-reducing-dishes](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1503-reducing-dishes) |
@@ -674,6 +677,7 @@
 | [0795-k-th-symbol-in-grammar](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1014-k-closest-points-to-origin) |
+| [1018-largest-perimeter-triangle](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1018-largest-perimeter-triangle) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1370-count-number-of-nice-subarrays) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1378-cells-with-odd-values-in-a-matrix) |
