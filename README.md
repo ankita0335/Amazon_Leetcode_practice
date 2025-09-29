@@ -220,6 +220,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1025-minimum-cost-for-tickets) |
 | [1046-max-consecutive-ones-iii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1256-rank-transform-of-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1256-rank-transform-of-an-array) |
@@ -347,6 +348,7 @@
 | [0740-delete-and-earn](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0740-delete-and-earn) |
 | [1013-fibonacci-number](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1025-minimum-cost-for-tickets) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1418-fair-distribution-of-cookies](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1418-fair-distribution-of-cookies) |
 | [1503-reducing-dishes](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1503-reducing-dishes) |
