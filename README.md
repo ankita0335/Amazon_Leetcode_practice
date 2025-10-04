@@ -172,6 +172,7 @@
 | [0018-4sum](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0047-permutations-ii) |
@@ -394,6 +395,7 @@
 | [0001-two-sum](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0041-first-missing-positive) |
 | [0139-word-break](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0169-majority-element) |
