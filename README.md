@@ -11,6 +11,7 @@
 | [0022-generate-parentheses](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0139-word-break) |
+| [0151-reverse-words-in-a-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0165-compare-version-numbers) |
 | [0212-word-search-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0214-shortest-palindrome) |
@@ -305,6 +306,7 @@
 | [0018-4sum](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0042-trapping-rain-water) |
+| [0151-reverse-words-in-a-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0189-rotate-array) |
