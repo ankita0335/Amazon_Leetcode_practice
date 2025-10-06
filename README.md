@@ -172,6 +172,7 @@
 | [0015-3sum](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0042-trapping-rain-water) |
@@ -396,6 +397,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0041-first-missing-positive) |
 | [0139-word-break](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0139-word-break) |
@@ -672,6 +674,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0174-dungeon-game) |
