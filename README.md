@@ -257,6 +257,7 @@
 | [1925-count-nice-pairs-in-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2107-find-unique-binary-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2107-find-unique-binary-string) |
@@ -685,6 +686,7 @@
 | [0695-max-area-of-island](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0695-max-area-of-island) |
 | [0861-flipping-an-image](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0861-flipping-an-image) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1171-shortest-path-in-binary-matrix) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3227-find-missing-and-repeated-values](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Indexed Tree
 |  |
