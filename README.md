@@ -179,6 +179,7 @@
 | [0046-permutations](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -553,6 +554,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0412-fizz-buzz) |
 | [0537-complex-number-multiplication](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0537-complex-number-multiplication) |
 | [0861-flipping-an-image](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0861-flipping-an-image) |
@@ -679,6 +681,7 @@
 | [0036-valid-sudoku](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0174-dungeon-game) |
 | [0212-word-search-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0212-word-search-ii) |
