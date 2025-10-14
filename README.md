@@ -304,6 +304,7 @@
 | [3427-special-array-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3427-special-array-ii) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3639-zero-array-transformation-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3639-zero-array-transformation-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Two Pointers
