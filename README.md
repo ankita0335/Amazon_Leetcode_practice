@@ -305,6 +305,7 @@
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3639-zero-array-transformation-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3639-zero-array-transformation-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Two Pointers
@@ -507,6 +508,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3427-special-array-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3427-special-array-ii) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Segment Tree
 |  |
 | ------- |
