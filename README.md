@@ -753,6 +753,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1014-k-closest-points-to-origin) |
@@ -814,6 +815,7 @@
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0190-reverse-bits) |
 | [0318-maximum-product-of-word-lengths](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0342-power-of-four](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0371-sum-of-two-integers) |
