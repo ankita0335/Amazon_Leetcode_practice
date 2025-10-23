@@ -5,8 +5,8 @@ public:
         while(s.length() > 2){
             ans ="";
             for(int i = 1; i<s.length(); i++){
-                char sum = s[i]+s[i-1];
-                char curr = sum%10;
+                int sum = s[i]-'0'+s[i-1]-'0';
+                char curr = '0'+sum%10;
                 ans += curr;
             }
             s = ans;
