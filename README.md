@@ -81,6 +81,7 @@
 | [3447-clear-digits](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3451-string-compression-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3462-vowels-game-in-a-string) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Rolling Hash
 |  |
@@ -582,6 +583,7 @@
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Greedy
 |  |
 | ------- |
@@ -746,6 +748,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3462-vowels-game-in-a-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3830-find-closest-person) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Divide and Conquer
@@ -846,6 +849,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0204-count-primes) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Interactive
 |  |
 | ------- |
@@ -861,6 +865,7 @@
 | ------- |
 | [1761-count-sorted-vowel-strings](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1761-count-sorted-vowel-strings) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Bitmask
 |  |
 | ------- |
