@@ -200,6 +200,7 @@
 | [0307-range-sum-query-mutable](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0307-range-sum-query-mutable) |
 | [0318-maximum-product-of-word-lengths](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0347-top-k-frequent-elements](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0399-evaluate-division](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0399-evaluate-division) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0454-4sum-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0454-4sum-ii) |
@@ -322,6 +323,7 @@
 | [0165-compare-version-numbers](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0611-valid-triangle-number](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0611-valid-triangle-number) |
@@ -416,6 +418,7 @@
 | [0146-lru-cache](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0409-longest-palindrome) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -501,6 +504,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0611-valid-triangle-number) |
 | [0729-my-calendar-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0729-my-calendar-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1046-max-consecutive-ones-iii) |
@@ -536,6 +540,7 @@
 | [0047-permutations-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0611-valid-triangle-number](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0611-valid-triangle-number) |
