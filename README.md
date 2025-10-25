@@ -743,6 +743,7 @@
 | [1642-water-bottles](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1642-water-bottles) |
 | [1761-count-sorted-vowel-strings](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1761-count-sorted-vowel-strings) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1771-sell-diminishing-valued-colored-balls) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2324-find-triangular-sum-of-an-array) |
