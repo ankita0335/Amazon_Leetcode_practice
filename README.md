@@ -148,6 +148,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0146-lru-cache](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0206-reverse-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0328-odd-even-linked-list) |
 | [0816-design-hashset](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0859-design-circular-deque) |
