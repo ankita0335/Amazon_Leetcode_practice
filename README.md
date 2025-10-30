@@ -254,6 +254,7 @@
 | [1524-string-matching-in-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1524-string-matching-in-an-array) |
 | [1539-diagonal-traverse-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1539-diagonal-traverse-ii) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1755-defuse-the-bomb](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1755-defuse-the-bomb) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -380,6 +381,7 @@
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1418-fair-distribution-of-cookies](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1418-fair-distribution-of-cookies) |
 | [1503-reducing-dishes](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1503-reducing-dishes) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1761-count-sorted-vowel-strings](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1761-count-sorted-vowel-strings) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2022-maximum-alternating-subsequence-sum) |
@@ -396,6 +398,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -407,6 +410,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0042-trapping-rain-water) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3114-beautiful-towers-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3114-beautiful-towers-i) |
 ## Hash Table
 |  |
@@ -606,6 +610,7 @@
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1503-reducing-dishes](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1503-reducing-dishes) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1530-check-if-a-string-can-break-another-string) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
