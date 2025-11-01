@@ -153,6 +153,7 @@
 | [0816-design-hashset](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0859-design-circular-deque) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
@@ -310,6 +311,7 @@
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3427-special-array-ii) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -471,6 +473,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Design
 |  |
