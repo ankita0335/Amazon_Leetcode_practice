@@ -36,6 +36,7 @@
 | [0841-shortest-distance-to-a-character](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0841-shortest-distance-to-a-character) |
 | [0878-shifting-letters](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0878-shifting-letters) |
 | [0886-score-of-parentheses](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0886-score-of-parentheses) |
+| [0935-orderly-queue](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0935-orderly-queue) |
 | [0952-word-subsets](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0952-word-subsets) |
 | [0953-reverse-only-letters](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0953-reverse-only-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -558,6 +559,7 @@
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0611-valid-triangle-number](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0611-valid-triangle-number) |
 | [0721-accounts-merge](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0721-accounts-merge) |
+| [0935-orderly-queue](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0935-orderly-queue) |
 | [0941-sort-array-by-parity](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0958-sort-array-by-parity-ii) |
@@ -750,6 +752,7 @@
 | [0537-complex-number-multiplication](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0537-complex-number-multiplication) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0795-k-th-symbol-in-grammar) |
+| [0935-orderly-queue](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0935-orderly-queue) |
 | [1013-fibonacci-number](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1018-largest-perimeter-triangle) |
