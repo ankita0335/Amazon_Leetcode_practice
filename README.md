@@ -9,6 +9,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0151-reverse-words-in-a-string) |
