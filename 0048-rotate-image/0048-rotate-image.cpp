@@ -17,6 +17,6 @@ public:
                 left++;
                 r--;
             }
-        }        //row wise reverse
+        }    
     }
 };
