@@ -602,6 +602,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2288-count-operations-to-obtain-zero](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2551-apply-operations-to-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2551-apply-operations-to-an-array) |
@@ -774,6 +775,7 @@
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1925-count-nice-pairs-in-an-array) |
+| [2288-count-operations-to-obtain-zero](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2650-split-with-minimum-sum](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2650-split-with-minimum-sum) |
