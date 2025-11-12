@@ -183,6 +183,7 @@
 | [0015-3sum](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0041-first-missing-positive) |
@@ -522,6 +523,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
