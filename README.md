@@ -193,6 +193,7 @@
 | [0047-permutations-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -379,6 +380,7 @@
 | [0010-regular-expression-matching](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -620,6 +622,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0409-longest-palindrome) |
 | [0611-valid-triangle-number](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0611-valid-triangle-number) |
