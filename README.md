@@ -11,6 +11,7 @@
 | [0022-generate-parentheses](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0093-restore-ip-addresses) |
 | [0139-word-break](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0139-word-break) |
@@ -598,6 +599,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0412-fizz-buzz) |
 | [0537-complex-number-multiplication](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0537-complex-number-multiplication) |
 | [0861-flipping-an-image](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0861-flipping-an-image) |
@@ -756,6 +758,7 @@
 | [0002-add-two-numbers](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0189-rotate-array) |
@@ -863,6 +866,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0190-reverse-bits) |
 | [0318-maximum-product-of-word-lengths](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0318-maximum-product-of-word-lengths) |
