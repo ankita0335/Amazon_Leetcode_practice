@@ -118,6 +118,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0079-word-search) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0399-evaluate-division) |
@@ -153,6 +154,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0025-reverse-nodes-in-k-group) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0328-odd-even-linked-list) |
@@ -415,6 +417,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0042-trapping-rain-water) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0886-score-of-parentheses](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0886-score-of-parentheses) |
 | [0933-increasing-order-search-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0933-increasing-order-search-tree) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -852,6 +855,7 @@
 | [0096-unique-binary-search-trees](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0572-subtree-of-another-tree) |
@@ -867,6 +871,7 @@
 | [0096-unique-binary-search-trees](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0572-subtree-of-another-tree) |
