@@ -270,6 +270,7 @@
 | [1503-reducing-dishes](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1503-reducing-dishes) |
 | [1524-string-matching-in-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1524-string-matching-in-an-array) |
 | [1539-diagonal-traverse-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1539-diagonal-traverse-ii) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1755-defuse-the-bomb](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1755-defuse-the-bomb) |
