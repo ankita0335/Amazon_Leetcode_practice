@@ -230,6 +230,7 @@
 | [0611-valid-triangle-number](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0611-valid-triangle-number) |
 | [0665-non-decreasing-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0665-non-decreasing-array) |
 | [0695-max-area-of-island](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0695-max-area-of-island) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0721-accounts-merge](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0729-my-calendar-i) |
