@@ -392,6 +392,7 @@
 | [0022-generate-parentheses](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0118-pascals-triangle) |
@@ -774,6 +775,7 @@
 | [0002-add-two-numbers](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0070-climbing-stairs) |
@@ -938,6 +940,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0062-unique-paths) |
 | [1761-count-sorted-vowel-strings](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/1761-count-sorted-vowel-strings) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
