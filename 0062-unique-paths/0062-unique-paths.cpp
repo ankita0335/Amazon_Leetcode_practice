@@ -1,0 +1,20 @@
+class Solution {
+public:
+    int arr[101][101];
+    void solve(int m, int n){
+        for(int i = 0 ; i < m ; i++){
+            for(int j = 0; j < n; j++){
+                if( i == 0 || j == 0)   arr[i][j]= 1;
+
+                else
+                    arr[i][j] += arr[i][j-1]+ arr[i-1][j];
+            }
+        }
+    }
+
+    int uniquePaths(int m, int n) {
+        memset(arr,0,sizeof(arr));
+        solve(m,n);
+        return arr[m-1][n-1];
+    }
+};
