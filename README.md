@@ -197,6 +197,7 @@
 | [0048-rotate-image](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -781,6 +782,7 @@
 | [0048-rotate-image](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0070-climbing-stairs) |
