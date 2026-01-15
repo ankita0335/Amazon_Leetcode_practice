@@ -6,6 +6,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0010-regular-expression-matching) |
+| [0014-longest-common-prefix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0022-generate-parentheses) |
@@ -138,6 +139,7 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0139-word-break) |
 | [0212-word-search-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0212-word-search-ii) |
 | [0386-lexicographical-numbers](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0386-lexicographical-numbers) |
@@ -183,6 +185,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
