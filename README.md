@@ -801,6 +801,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0412-fizz-buzz) |
 | [0537-complex-number-multiplication](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0537-complex-number-multiplication) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0795-k-th-symbol-in-grammar) |
 | [0935-orderly-queue](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0935-orderly-queue) |
@@ -910,6 +911,7 @@
 | [0342-power-of-four](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0371-sum-of-two-integers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0795-k-th-symbol-in-grammar) |
 | [0861-flipping-an-image](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0861-flipping-an-image) |
