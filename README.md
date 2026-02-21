@@ -200,6 +200,7 @@
 | [0048-rotate-image](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -590,6 +591,7 @@
 | [0015-3sum](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
