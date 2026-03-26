@@ -340,6 +340,7 @@
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -709,6 +710,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2714-left-and-right-sum-differences) |
 | [3427-special-array-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3427-special-array-ii) |
+| [3546-equal-sum-grid-partition-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3639-zero-array-transformation-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3639-zero-array-transformation-i) |
 ## Data Stream
@@ -778,6 +780,7 @@
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3227-find-missing-and-repeated-values) |
+| [3546-equal-sum-grid-partition-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3546-equal-sum-grid-partition-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -937,6 +940,7 @@
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/ankita0335/Amazon_Leetcode_practice/tree/master/3546-equal-sum-grid-partition-i) |
 ## Number Theory
 |  |
 | ------- |
